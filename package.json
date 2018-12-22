@@ -31,7 +31,7 @@
         "async": "*",
         "base58-native": "*",
         "bignum": "*",
-        "multi-hashing": "git://github.com/zinntikumugai/node-multi-hashing.git"
+        "multi-hashing": "git://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing-yescrypt-0.5.git"
     },
     "engines": {
         "node": ">=0.10"
